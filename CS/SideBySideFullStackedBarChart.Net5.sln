@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SideBySideFullStackedBarChart", "SideBySideFullStackedBarChart\SideBySideFullStackedBarChart.csproj", "{3BDFC5FA-2595-4107-A0AC-FDFF2F7C43A3}"
+# Visual Studio 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SideBySideFullStackedBarChart", "SideBySideFullStackedBarChart\SideBySideFullStackedBarChart.Net5.csproj", "{3BDFC5FA-2595-4107-A0AC-FDFF2F7C43A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
